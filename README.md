@@ -12,11 +12,8 @@ Desenvolver uma solução moderna e intuitiva para conectar turistas a experiên
 - Recomendações inteligentes
 
 # Tecnologias
-- Figma
 - HTML/CSS
 - JavaScript
-- React
-- Node.js
 
 # Status do Projeto
 Protótipo concluído
